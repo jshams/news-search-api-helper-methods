@@ -1,5 +1,7 @@
 # News Search Library
 
+[NPM]("https://www.npmjs.com/package/news-search-lib")
+
 ## Installation
 
 Start by running this command in your project's directory

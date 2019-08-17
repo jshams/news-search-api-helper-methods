@@ -24,7 +24,8 @@
   },
   "homepage": "https://github.com/jshams/news-search-api-helper-methods#readme",
   "dependencies": {
-    "jest": "^24.8.0"
+    "jest": "^24.8.0",
+    "unirest": "^0.6.0"
   },
   "jest": {
     "coverageDirectory": "./coverage/",
