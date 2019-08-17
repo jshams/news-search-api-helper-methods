@@ -1,0 +1,36 @@
+{
+  "name": "news-search-lib",
+  "version": "1.0.0",
+  "description": "Adds methods to news search api",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jshams/news-search-api-helper-methods.git"
+  },
+  "keywords": [
+    "math",
+    "javascript"
+  ],
+  "author": "Jake Shams",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jshams/news-search-api-helper-methods/issues"
+  },
+  "homepage": "https://github.com/jshams/news-search-api-helper-methods#readme",
+  "dependencies": {
+    "jest": "^24.8.0"
+  },
+  "jest": {
+    "coverageDirectory": "./coverage/",
+    "collectCoverage": true
+  },
+  "devDependencies": {
+    "codecov": "^3.5.0"
+  }
+}
