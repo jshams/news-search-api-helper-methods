@@ -4,10 +4,10 @@
 
 ![npm](https://img.shields.io/npm/v/news-search-lib.svg?style=plastic)
 ![npm bundle size](https://img.shields.io/bundlephobia/min/news-search-lib.svg?style=plastic)
-[![Build Status](https://travis-ci.com/jshams/news-search-lib.svg?branch=master)](https://travis-ci.com/jshams/date-library)
+[![Build Status](https://travis-ci.com/jshams/news-search-lib.svg?branch=master)](https://travis-ci.com/jshams/news-search-api-helper-methods)
 ![Codecov](https://img.shields.io/codecov/c/github/jshams/news-search-api-helper-methods)
 
-[NPM]("https://www.npmjs.com/package/news-search-lib")
+[NPM](https://www.npmjs.com/package/news-search-lib)
 
 ## Installation
 
